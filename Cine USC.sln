@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cine USC", "Cine USC\Cine USC.csproj", "{525CF403-5F73-469C-B0CE-E2F6646EBD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525CF403-5F73-469C-B0CE-E2F6646EBD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525CF403-5F73-469C-B0CE-E2F6646EBD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525CF403-5F73-469C-B0CE-E2F6646EBD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525CF403-5F73-469C-B0CE-E2F6646EBD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9813C9-A290-4E4A-8D1B-D4E1505F8322}
+	EndGlobalSection
+EndGlobal
