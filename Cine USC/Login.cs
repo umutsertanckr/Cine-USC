@@ -44,7 +44,7 @@ namespace Cine_USC
             }
             else
             {
-                MessageBox.Show("Kullanıcı adını veya şifre hatalı kontrol ediniz.");
+                MessageBox.Show("Kullanıcı adı veya şifre hatalı kontrol ediniz.");
             }
             bagla.Close();
         }
